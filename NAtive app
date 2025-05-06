@@ -1,0 +1,14 @@
+# React Native Message Toggle App
+
+## Overview
+This React Native app uses Expo. A button toggles the screen text between "Hello" and "Goodbye".
+
+## Features
+- Interactive button
+- Clean, centered layout
+
+## How to Run
+1. Install Expo CLI:
+   ```bash
+   npm install -g expo-cli
+
